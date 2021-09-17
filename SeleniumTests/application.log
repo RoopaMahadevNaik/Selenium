@@ -1,0 +1,16 @@
+2021-06-01 13:09:04,917  INFO [main] Log4jdemo:17 - Launch Browser
+2021-06-01 13:09:12,997  INFO [main] Log4jdemo:22 - URL launched
+2021-06-01 13:09:13,028  INFO [main] Log4jdemo:27 - title value is:Google
+2021-06-01 13:09:13,029  INFO [main] Log4jdemo:31 - Correct title: Test case passed
+2021-06-01 13:12:41,833  INFO [main] Log4jdemo:17 - Launch Browser
+2021-06-01 13:12:46,603  INFO [main] Log4jdemo:22 - URL launched
+2021-06-01 13:12:46,624  INFO [main] Log4jdemo:27 - title value is:Google
+2021-06-01 13:12:46,625  INFO [main] Log4jdemo:31 - Correct title: Test case passed
+2021-06-01 13:13:41,075  INFO [main] Log4jdemo:17 - Launch Browser
+2021-06-01 13:13:45,720  INFO [main] Log4jdemo:22 - URL launched
+2021-06-01 13:13:45,735  INFO [main] Log4jdemo:27 - title value is:Google
+2021-06-01 13:13:45,736 ERROR [main] Log4jdemo:36 - Wrong page
+2021-06-02 16:19:09,069  INFO [main] Log4jdemo:16 - Launch Browser
+2021-06-02 16:19:15,206  INFO [main] Log4jdemo:20 - URL launched
+2021-06-02 16:19:15,292  INFO [main] Log4jdemo:25 - title value is:Google
+2021-06-02 16:19:15,294 ERROR [main] Log4jdemo:34 - Wrong page
