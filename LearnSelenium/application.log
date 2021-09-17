@@ -1,0 +1,8 @@
+2021-09-03 10:24:31,097  INFO [main] Log4jDemo:17 - Launch Browser
+2021-09-03 10:24:35,915  INFO [main] Log4jDemo:22 - Opened Application
+2021-09-03 10:24:35,929  INFO [main] Log4jDemo:27 - Title value is:Demo Web Shop. Login
+2021-09-03 10:24:35,929  INFO [main] Log4jDemo:32 - correct title
+2021-09-03 12:12:57,690  INFO [main] Log4jDemo:17 - Launch Browser
+2021-09-03 12:13:01,370  INFO [main] Log4jDemo:22 - Opened Application
+2021-09-03 12:13:01,394  INFO [main] Log4jDemo:27 - Title value is:Demo Web Shop. Login
+2021-09-03 12:13:01,395  INFO [main] Log4jDemo:32 - correct title
